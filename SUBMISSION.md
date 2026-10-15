@@ -1,33 +1,38 @@
-# Nộp bài CS13
+# Nộp bài CS13 bằng repo GitHub
 
-## Bài nhóm, hai mốc nộp
+Mỗi nhóm dùng **một repo GitHub chung** để lưu Excel và slide. Mỗi thành viên nộp **cùng link repo đó** bằng tài khoản cá nhân trên VLearn.
 
-| Mốc theo giờ Việt Nam | Nội dung | Nơi nộp |
-|---|---|---|
-| Trước 18:00 ngày 16/10/2026 | `[Nhom]_CS13.xlsx` đã có Nhiệm vụ 1–4 | VLearn, mục nộp bài CS13 của lớp |
-| Trước 23:59 ngày 19/10/2026 | Phần Nhiệm vụ 5: Excel đã điền trang 5 và 1 slide lộ trình | VLearn theo mục nộp do lớp cung cấp |
+## 1. Tạo repo của nhóm
 
-Thay `[Nhom]` bằng tên nhóm thực tế. Dùng bản Excel của đúng đề, không nộp cả ba file đề. Tài liệu không cung cấp URL trực tiếp của mục nộp; mở lớp trên VLearn để chọn đúng bài CS13.
+1. Một bạn đăng nhập GitHub, chọn **New repository**.
+2. Đặt tên `K4-L3-CS13-TenNhom-AI-Roadmap`, thay `TenNhom` bằng tên nhóm không dấu, không có khoảng trắng. Ví dụ nhóm tên Nhom01 dùng `K4-L3-CS13-Nhom01-AI-Roadmap`. Dùng mã buổi CS13 để nhận diện bài.
+3. Bật tạo README rồi chọn **Create repository**. Ghi tên nhóm, số đề và danh sách file bài làm trong README.
+4. Tạo `team/TEAM.md` theo [mẫu thành viên](team/TEAM.md), ghi họ tên, MSSV và phần việc của từng bạn. Nếu repo private, thêm coach/người chấm vào **Settings → Collaborators** để họ mở được bài.
 
-Đề yêu cầu Nhiệm vụ 5 có **5 ô không quá 60 chữ mỗi ô và 1 slide**. Hãy lưu bản Excel đã bổ sung và slide; định dạng slide, việc đính kèm riêng hay gộp theo cấu hình mục nộp VLearn và thông báo của coach. Tài liệu gốc không nêu một phần mở rộng bắt buộc cho slide.
+Đây là repo bài làm của nhóm, khác với [repo đề bài](https://github.com/VinUni-AI20k/K4-L3-CS13-AI-Roadmap). Không cần sao chép toàn bộ tài liệu đề vào repo bài làm.
 
-## Kiểm tra trước khi nộp
+## 2. Tải bài làm và nộp link
 
-- [ ] Dòng 1 của `0_Hướng dẫn` đúng đề theo số nhóm.
-- [ ] Có ít nhất 5 việc đã chấm điểm và đủ giả thuyết, chỉ số, ngưỡng.
-- [ ] Ít nhất 2 mức trong Mức 1–3 có cổng đủ chỉ số, ngưỡng, cỡ mẫu.
-- [ ] Tầng Bây giờ đủ 8 dòng; điều kiện dừng có số và mốc xem xét.
-- [ ] Đã có lịch rà soát, phân biệt người duyệt của công ty và của khách hàng.
-- [ ] Trang 6 đã được soát; lần đầu có thể thiếu mục slide lãnh đạo.
-- [ ] File `.xlsx` đã lưu, mở lại được và tải lên đúng mục VLearn.
-- [ ] Lần cuối: trang 5 đủ 5 ô đạt, có 1 slide và kiểm tra lại bản nộp.
+1. Trong repo nhóm, chọn **Add file → Upload files**. Tải `[Nhom]_CS13.xlsx` lên thư mục gốc rồi bấm **Commit changes**.
+2. Mở lại repo, kiểm tra có đúng file; tải xuống thử để chắc đó là bản vừa lưu.
+3. Sao chép URL trang chính của repo. **Mỗi thành viên** dán cùng URL này vào mục nộp CS13 trên VLearn và gửi bài bằng tài khoản của mình.
+4. Khi hoàn thành bài ở nhà, cập nhật Excel cùng tên và thêm file chứa 1 slide vào chính repo đó. Kiểm tra VLearn vẫn lưu đúng link repo; nếu mục nộp yêu cầu gửi lại, thực hiện theo giao diện của lớp.
 
-## Nếu lớp dùng thêm repo GitHub
+## Hai hạn nộp — giờ Việt Nam
 
-Repo đề bài theo khung [skeleton-lab](https://github.com/khvavuong/skeleton-lab): [K4-L3-CS13-AI-Roadmap](https://github.com/VinUni-AI20k/K4-L3-CS13-AI-Roadmap), dùng chung Level 3. Repo private; tài khoản GitHub cần được cấp quyền để tải tài liệu.
+| Hạn | Repo phải có |
+|---|---|
+| Trước 18:00 ngày 16/10/2026 | Excel đã làm Nhiệm vụ 1–4; thông tin thành viên; mỗi người đã gửi link repo |
+| Trước 23:59 ngày 19/10/2026 | Excel đã bổ sung trang 5 và file chứa 1 slide lãnh đạo |
 
-Nếu lớp yêu cầu nộp thêm repo nhóm, mẫu tên là `K4-L3-DAYxx-TenNhom-CS13-AI-Roadmap`, với mã ngày học do lớp thông báo. `16/10` là ngày lịch, không tự suy thành `DAY16`; `CS13` là mã buổi, không tự suy thành `DAY13`.
+Slide có 5 ý, mỗi ô trong trang 5 không quá 60 chữ. Tài liệu không quy định phần mở rộng bắt buộc cho slide. Các file PDF/Excel gốc có thể vẫn ghi nộp trực tiếp file; **cách nộp của lớp này là tải file lên GitHub và nộp link repo trên VLearn**.
 
-Khi áp dụng nộp repo, nhóm điền `team/TEAM.md`, `report/team/group_report.md` và mỗi người dùng `report/team/MSSV_HoTen.md`, đổi `MSSV_HoTen` thành thông tin thật. Quy ước mỗi thành viên tự nộp link repo của skeleton chỉ áp dụng khi lớp đã thông báo dùng cách nộp đó.
+## Kiểm tra trước khi gửi
 
-**Luồng nộp đã được tài liệu CS13 xác nhận là file trên VLearn.** Các mẫu GitHub không tạo thêm bài nộp bắt buộc hoặc tiêu chí chấm mới.
+- [ ] Excel đúng đề theo số nhóm, mở được và là bản mới nhất.
+- [ ] Trang 6 đã soát: bản trong lớp thường 7/8, bản cuối cần 8/8.
+- [ ] Có `team/TEAM.md` ghi đủ thành viên và đóng góp.
+- [ ] Coach/người chấm mở được repo và tải được bài.
+- [ ] Mỗi thành viên đã nộp cùng link repo trên VLearn.
+
+Các mẫu trong `report/team/` có thể dùng để ghi chép thêm; không cần chép lại Excel thành báo cáo dài. Thang 100 điểm và hai hạn nộp giữ theo đề bài.

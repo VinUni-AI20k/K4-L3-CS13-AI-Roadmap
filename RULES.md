@@ -13,7 +13,7 @@ Slide 81 có bước hỏi AI về việc có thể bị mô hình miễn phí l
 - Không sao chép bài hoặc nhận bài làm thay. Ghi nguồn khi dùng tài liệu ngoài.
 - Số liệu, người và đơn vị trong ba đề là giả định để học, không phải kết quả đo ngoài thực tế.
 - Bản mẫu dùng sản phẩm khác: xem cấu trúc và cách điền, không chép số vào đề của nhóm.
-- Nếu dùng mẫu repo để ghi đóng góp, điền [team/TEAM.md](team/TEAM.md). Các báo cáo Markdown là mẫu bổ sung, không thay file Excel chính thức.
+- Ghi thành viên và đóng góp trong [team/TEAM.md](team/TEAM.md). Các báo cáo Markdown là mẫu bổ sung, không thay file Excel chính thức.
 
 Không đưa API key, mật khẩu hoặc `.env` vào repo. Bài không yêu cầu thu thập dữ liệu người bệnh, học viên hay khách hàng thật để làm thử.
 

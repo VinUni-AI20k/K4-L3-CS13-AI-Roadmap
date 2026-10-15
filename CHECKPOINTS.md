@@ -92,7 +92,7 @@ Chi phí người duyệt trong công thức chỉ tính **người của công 
 ## CP4 — Ghép thành lộ trình và nộp bản trong lớp
 
 - **Mục tiêu:** biến các quyết định vừa làm thành kế hoạch có điều kiện dừng và người xem lại.
-- **Cần làm:** 17:43–17:55 điền trang 3–4; 17:55–18:00 kiểm tra trang 6 và nộp VLearn.
+- **Cần làm:** 17:43–17:55 điền trang 3–4; 17:55–18:00 kiểm tra trang 6, tải Excel lên repo nhóm và nộp link repo trên VLearn.
 - **Sản phẩm:** tầng Bây giờ đủ 8 dòng, lịch rà soát, bản Excel có Nhiệm vụ 1–4.
 - **Cần hiểu:** Bây giờ là cam kết gần; Tiếp theo là định hướng; Sau này là khám phá. Một lộ trình có thể được sửa khi bằng chứng thay đổi.
 - **Tự kiểm tra:** `3_Bảng lộ trình!B5:B12` đủ 8 ô; trang 6 thường đạt 7/8, còn mục slide lãnh đạo làm ở nhà.
@@ -117,7 +117,7 @@ Chi phí người duyệt trong công thức chỉ tính **người của công 
 1. Điền đủ B5:B12 của `3_Bảng lộ trình`. Cột B là Bây giờ 0–3 tháng; C là Tiếp theo 3–6 tháng; D là Sau này 6–12 tháng. C–D có thể hoàn thiện ở nhà nếu chưa kịp.
 2. Ở `4_Rà soát`, điền chỉ số, quyết định có thể đưa ra và người quyết cho ngày 30/60/90. Điền cả các sự kiện có sẵn: mô hình/giá thay đổi, nền tảng/đối thủ có tính năng tương tự, quy định thay đổi.
 3. Mở `6_Tự kiểm tra`. Sửa các mục còn `Xem lại`, trừ mục slide lãnh đạo sẽ làm ở CP5. Đọc lại nội dung dù ô đã báo `Đạt`: bộ kiểm tra chủ yếu đếm ô và dò chữ số.
-4. Lưu, đóng rồi mở lại `[Nhom]_CS13.xlsx`. Nộp file lên VLearn **trước 18:00 ngày 16/10/2026** và kiểm tra file đã tải lên đúng.
+4. Lưu, đóng rồi mở lại `[Nhom]_CS13.xlsx`. Tải file lên repo GitHub của nhóm; mỗi thành viên nộp link repo trên VLearn **trước 18:00 ngày 16/10/2026**. Xem thao tác tại [SUBMISSION.md](SUBMISSION.md).
 
 **Xong khi:** đã có bản nộp mở được, đủ phần trong lớp và đúng đề. Đừng đợi làm slide rồi mới nộp lần đầu. Trang `5_Slide lãnh đạo` sẽ được bổ sung sau buổi học.
 
@@ -136,6 +136,6 @@ Trang 5 có đúng 5 ô: **Kết luận**, **3 việc chính**, **Cần gì**, *
 1. Điền B4:B8, đặt câu kết luận trước. Nguồn lực phải phù hợp với số giờ chuyên gia và điều kiện trong hồ sơ.
 2. Sửa các ô báo `Trống` hoặc `Quá 60 chữ`; hoàn thiện phần Tiếp theo/Sau này nếu còn thiếu.
 3. Chuyển nội dung thành **một slide** bằng công cụ trình chiếu sẵn có. Hồ sơ không bắt buộc một phần mềm hay phần mở rộng cụ thể cho slide.
-4. Lưu bản Excel đã bổ sung trang 5 và nộp phần Nhiệm vụ 5 lên VLearn theo [SUBMISSION.md](SUBMISSION.md), trước **23:59 ngày 19/10/2026**.
+4. Cập nhật bản Excel đã bổ sung trang 5 và thêm file slide vào cùng repo GitHub theo [SUBMISSION.md](SUBMISSION.md), trước **23:59 ngày 19/10/2026**.
 
 **Xong khi:** bản Excel cuối đã có trang 5, slide đọc được và thông tin nộp trên VLearn đúng bài của nhóm. Điểm chính vẫn là thang sản phẩm 100 điểm; bản chuẩn của buổi học không có thuyết trình trên lớp.
