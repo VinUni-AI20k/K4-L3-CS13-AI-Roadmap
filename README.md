@@ -6,8 +6,6 @@ Trong bài này, nhóm bạn lập lộ trình 12 tháng cho một sản phẩm 
 
 ## Bắt đầu từ đâu?
 
-Cần hướng dẫn ngắn để đọc trên Codelab: mở [CODELAB.md](CODELAB.md). Phần dưới và `CHECKPOINTS.md` có hướng dẫn chi tiết hơn khi cần tra cứu.
-
 1. Xem [luật làm bài](RULES.md), rồi xác định đề của nhóm trong bảng dưới.
 2. Tải [hồ sơ tình huống](docs/CS13_HoSoTinhHuong.pdf) và file Excel tương ứng về máy. Mở bằng Excel hoặc LibreOffice.
 3. Lưu một bản làm bài tên `[Nhom]_CS13.xlsx`, thay `[Nhom]` bằng tên nhóm thực tế.
